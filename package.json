@@ -1,5 +1,5 @@
 {
-  "name": "cypress-funcional",
+  "name": "cypress",
   "version": "1.0.0",
   "description": "Projeto criado com o intuito de aperfeiçoar os conhecimento em cypress",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fabiofs15/cypress-funcional.git"
+    "url": "git+https://github.com/Fabiofs15/Cypress.git"
   },
   "author": "Fábio",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fabiofs15/cypress-funcional/issues"
+    "url": "https://github.com/Fabiofs15/Cypress/issues"
   },
-  "homepage": "https://github.com/Fabiofs15/cypress-funcional#readme",
+  "homepage": "https://github.com/Fabiofs15/Cypress#readme",
   "devDependencies": {
     "cypress": "^10.6.0",
     "cypress-xpath": "^2.0.1"
